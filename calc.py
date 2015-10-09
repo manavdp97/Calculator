@@ -36,7 +36,7 @@ def div(a, b):
 # Modulus division function
 # a -- dividend
 # b -- divisor
-def mod(a, b)
+def mod(a, b) :
 	return a % b
 
 def exp(a, b):
